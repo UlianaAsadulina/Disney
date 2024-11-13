@@ -1,0 +1,51 @@
+.navigation {
+    border: solid black;
+    height: 80px;
+}
+
+.navTop {
+    border: solid yellow;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon {
+    border: solid red;
+    height: 20px;
+    width: 20px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.navBottom {
+    border: 1px solid green;
+    display: flex;
+    justify-content: space-around;
+    height: 20px;
+}
+
+.displayContainer {
+    border: solid purple;
+    margin: 1em;
+    display: flex;
+    justify-content: space-evenly;
+    height: 56vh;
+}
+
+.deadpool {
+    border: solid red;
+    width: 48%;
+
+}
+
+.wolverine {
+    border: solid yellow;
+    width: 48%;
+
+}
+
+.productContainer {
+    border: solid green;
+    height: 600px;
+}
